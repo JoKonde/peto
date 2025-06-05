@@ -1,0 +1,51 @@
+# Fichier de discussions/mémoire du projet
+discussions.txt
+
+# Fichiers de configuration sensibles
+config.php
+.env
+.env.local
+
+# Fichiers de base de données
+*.sql
+*.db
+*.sqlite
+
+# Logs
+*.log
+logs/
+error.log
+
+# Fichiers temporaires
+tmp/
+temp/
+cache/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Dépendances (si on utilise Composer plus tard)
+vendor/
+composer.lock
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+*.old
+
+# Uploads utilisateurs (si on en ajoute)
+uploads/
+files/
+
+# Fichiers de test
+test_*.php
+debug.php 
