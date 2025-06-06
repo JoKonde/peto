@@ -1,6 +1,9 @@
 # Fichier de discussions/mémoire du projet
 discussions.txt
 
+# Documentation technique interne
+besoin-tech.txt
+
 # Fichiers de configuration sensibles
 config.php
 .env

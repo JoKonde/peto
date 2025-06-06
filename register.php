@@ -249,6 +249,7 @@ if ($_POST) {
                         <option value="Ngiri-Ngiri" <?php echo (isset($_POST['commune']) && $_POST['commune'] == 'Ngiri-Ngiri') ? 'selected' : ''; ?>>Ngiri-Ngiri</option>
                         <option value="Nsele" <?php echo (isset($_POST['commune']) && $_POST['commune'] == 'Nsele') ? 'selected' : ''; ?>>Nsele</option>
                         <option value="Selembao" <?php echo (isset($_POST['commune']) && $_POST['commune'] == 'Selembao') ? 'selected' : ''; ?>>Selembao</option>
+                        <option value="Kisenso" <?php echo (isset($_POST['commune']) && $_POST['commune'] == 'Kisenso') ? 'selected' : ''; ?>>Kisenso</option>
                     </select>
                 </div>
                 <div class="form-group">
